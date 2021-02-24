@@ -1,5 +1,7 @@
+Whole information is copied from Google Android Devevlopment - Kotlin Labs
+
 # RoomWordSample
-Android Room with a View -Kotlin
+Android Room with a View -Kotlin (Google codelabs Preview)
 
 Before you begin
 
